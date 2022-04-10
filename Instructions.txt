@@ -1,0 +1,13 @@
+Create a project
+
+Create these java classes:
+	Buttons.java
+	Console.java
+	Frame.java
+	logic.java
+	Driver.java
+	
+Copy-paste the source codes from here
+
+Place the icon.png file on the src folder
+
